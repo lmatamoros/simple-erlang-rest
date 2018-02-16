@@ -1,0 +1,6 @@
+-sname simple_erlang_rest
+
+-setcookie simple_erlang_rest_cookie
+
++K true
++A30
